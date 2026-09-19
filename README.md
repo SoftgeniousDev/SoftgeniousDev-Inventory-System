@@ -276,9 +276,8 @@ Runtime directories such as `uploads/`, `logs/` and Composer's `vendor/` directo
 
 ### 1. Clone the repository
 
-```bash
+
 git clone https://github.com/SoftgeniousDev/SoftgeniousDev-Inventory-System.git
-```
 
 Move the project into your web server directory.
 
