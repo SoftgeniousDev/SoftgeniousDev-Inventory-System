@@ -1,0 +1,7 @@
+{
+    "require": {
+        "tecnickcom/tcpdf": "^7.0",
+        "tecnickcom/tc-font-mirror": "^2.4",
+        "endroid/qr-code": "^6.0"
+    }
+}
